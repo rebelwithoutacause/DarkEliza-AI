@@ -18,11 +18,7 @@ Unlike the comforting therapist-style responses of the original, this version le
 
 
 
-How to Run
-
-```bash
-
-python dark_eliza.py
+How to Run  -> Write in cmd -> python dark_eliza.py
 
 👁️ Preview
 YOU: I feel scared.
